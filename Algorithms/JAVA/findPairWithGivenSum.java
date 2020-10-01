@@ -25,7 +25,6 @@ class FindPairWithGivenSum
 	public static void main (String[] args) throws java.lang.Exception
 	{
         int a[] = { 1, 4, 45, 6, 10, 8, 2, 7, 9 };
-        BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         int x = 16;
         findPair(a,x);
     }
